@@ -52,5 +52,4 @@ To build an interactive dashboard that:
 – 🔍 Strategic Planning: Empowers top management with trends to scale operations or optimize supply chains.
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+[Dashboard Preview](https://github.com/DarshanPatel7440/Textile-Industry/blob/main/Manufacture.png)
