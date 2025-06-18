@@ -1,5 +1,4 @@
 # Textile Industry
-# Ski-dashboard
 ## Recommended Structure and Order
 ### 1.	Project Title / Headline
 🧵 Textile Industry Analytics Dashboard – Driving Efficiency Through Data
